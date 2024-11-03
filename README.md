@@ -34,3 +34,15 @@ This project can be expanded further by incorporating more complex features, suc
 
 ![image](https://github.com/user-attachments/assets/86927664-ed39-40a8-a37f-da825ad8d9f9)
 
+![image](https://github.com/user-attachments/assets/97494034-d825-4ebe-8213-b9c0898cc66a)
+
+![image](https://github.com/user-attachments/assets/44f71cef-6cb8-47f2-987b-62da40d433e8)
+
+![image](https://github.com/user-attachments/assets/4970a2c4-a9c8-48e3-9f48-2b5ef846eb4d)
+
+![image](https://github.com/user-attachments/assets/19aea70c-7ac3-401c-97bb-0608106ecf75)
+
+![image](https://github.com/user-attachments/assets/57d79561-ee5e-448a-a2ad-6a378452281c)
+
+
+

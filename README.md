@@ -31,3 +31,6 @@ Purpose:
 The program serves as a simple demonstration of how file management, sorting algorithms, and user authentication can be combined to create a basic educational management tool. It is intended for educational use, showcasing core concepts in C programming.
 
 This project can be expanded further by incorporating more complex features, such as a GUI, dynamic question loading, or enhanced security for user credentials.
+
+![image](https://github.com/user-attachments/assets/86927664-ed39-40a8-a37f-da825ad8d9f9)
+
